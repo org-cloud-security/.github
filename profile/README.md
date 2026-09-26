@@ -4,7 +4,7 @@ Organização da disciplina **Cloud Security: Automation e DevSecOps**, da gradu
 
 Aqui ficam os trabalhos práticos de segurança, automação e pipelines CI/CD na nuvem.
 
-[![Stack](https://skillicons.dev/icons?i=docker,terraform,githubactions,aws)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=docker,terraform,githubactions,azure)](https://skillicons.dev)
 
 ## Repositórios
 
